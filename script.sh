@@ -12,7 +12,7 @@ echo "Remove Sample Pages"
 sudo rm -rf /var/www/html
 
 echo "Clone Login App"
-sudo git clone https://github.com/blnaidu/login-project.git
+sudo git clone https://github.com/blnaidu/login-project.git /var/www/html
 
 echo"Script Execution Completed"
 #
