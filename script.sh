@@ -3,7 +3,7 @@ echo "updating system"
 sudo apt update -y
 
 echo "Installing Utilities"
-sudo apt insatll -y zip unzip
+sudo apt install -y zip unzip
 
 echo "Installing NGINX web Server"
 sudo apt install -y nginx
