@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: c1-container
-        image: lokesh070/web-loginapp
+        image: nginx
         ports:
         - containerPort: 80
 
